@@ -27,7 +27,7 @@ html,body{
   transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 a{
-  color: hotpink;
+  color: black;
 }
 
 .wrapper .icon span{

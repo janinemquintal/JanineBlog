@@ -261,13 +261,13 @@ img{
 }
 
 .home__subtitle{
-  font-size: var(--h1-font-size);
+  font-size: var(--h2-font-size);
   color: var(--title-color);
   margin-bottom: var(--mb-4);
 }
 
 .home__img{
-  width: 300px;
+  width: 150px;
   justify-self: center;
 }
 
@@ -529,7 +529,9 @@ img{
     padding: 1.5rem;
   }
   .menu__img{
-    width: 130px;
+    border-radius: 50%;
+    width: 110px;
+    height: 100px;
   }
 
   .app__store{

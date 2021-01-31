@@ -344,9 +344,9 @@ img{
 }
 
 .menu__img{
-   border-radius: 50%;
-    width: 80px;
-    height: 100px;
+   width: 100px;
+  align-self: center;
+  margin-bottom: var(--mb-2);
 }
 
 .menu__name, .menu__preci{
